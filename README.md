@@ -28,5 +28,23 @@ A lightweight and extendable clone of the Judge0 API built using **Express.js**,
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 🚀 Getting Started
+
+### 🧱 Prerequisites
+
+- Node.js 18+
+- Local compilers: `gcc`, `python`, `javac`, etc.
+- (Optional) Docker for isolated execution
+
+### ⚙️ Installation
+
+```bash
+git clone https://github.com/SIDDU2402/judge0
+cd judge0
+npm install
+▶️ Run the Server
+node index.js
 
