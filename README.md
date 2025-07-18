@@ -1,4 +1,4 @@
-# 🧪 Judge0 Code Execution API (Custom Implementation)
+# 🧪 Code Execution API (Custom Implementation)
 
 A lightweight and extendable clone of the Judge0 API built using **Express.js**, designed to evaluate code in multiple languages securely and efficiently.
 
